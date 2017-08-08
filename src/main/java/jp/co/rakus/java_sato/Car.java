@@ -1,6 +1,16 @@
 package jp.co.rakus.java_sato;
 
+/**
+ * 車を表すクラスです.
+ * お疲れ様です。
+ * かぁかぁにゅぅかー
+ * @author admin
+ *
+ */
 public class Car {
+
+//	Car car = new Car();
+	
 	private int speed;
 
 	public void run() {
