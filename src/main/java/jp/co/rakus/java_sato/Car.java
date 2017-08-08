@@ -4,7 +4,7 @@ public class Car {
 	private int speed;
 
 	public void run() {
-		this.speed += 5;
+		this.speed += 10;
 	}
 
 	public int getSpeed() {
